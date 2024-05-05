@@ -11,3 +11,7 @@
 console.log("Hello, world!");
 
 ```
+
+- [ ] Complete markdown module
+- [ ] Complete next assignments
+- [ ] Push everything to GitHub
